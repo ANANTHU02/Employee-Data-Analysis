@@ -1,4 +1,4 @@
-# Employee-Data-Analysis
+# Employee-Data-Analysis(Python End Module Project)
 
 This project analyzes employee data using Python with NumPy, pandas, seaborn, and Matplotlib. The dataset includes information such as age, salary, position, and team.
 
